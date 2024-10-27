@@ -9,16 +9,14 @@ My name is Jhonson, Developer, Graduate Degrees (Software Engineering and Databa
 <br><br>
 ### 🔧 Tecnologias / Technologies 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=flat&logo=lumen&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Slim-informational?style=flat&logo=slim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PhpUnit-informational?style=flat&logo=phpunit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostGreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
