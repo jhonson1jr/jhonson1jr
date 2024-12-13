@@ -5,7 +5,7 @@ Meu nome é Jhonson, desenvolvedor, Pós Graduado (Engenharia de Software e Gere
 <br><br>
 ## 🇺🇸 Hello, folks! 👋
 
-My name is Jhonson, Developer, Graduate Degrees (Software Engineering and Database Management) and Bachelor (Computer Science).<br>For professional matters, you can contact me at [Linkedin](https://www.linkedin.com/in/jhonson-junior/).
+My name is Jhonson, Developer, Postgraduate Degrees (Software Engineering and Database Management) and Bachelor Degrees(Computer Science).<br>For professional matters, you can contact me at [Linkedin](https://www.linkedin.com/in/jhonson-junior/).
 <br><br>
 ### 🔧 Tecnologias / Technologies 
 
